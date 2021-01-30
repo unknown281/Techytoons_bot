@@ -51,13 +51,13 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hi {}, my name is {}! 
-I am an group management bot made for [Telegeeks](https://t.me/telegeekscommunity)
+Hi {}, I amb {}! 
+I am an group management bot made for [TechyToons](https://t.me/techtycoons)
 You can find my list of available commands with /help.
 """
 
 HELP_STRINGS = """
-Hey there! My name is *{}*.
+Hey there! I am *{}*.
 Have a look at the following for an idea of some of \
 the things I can help you with.
 
