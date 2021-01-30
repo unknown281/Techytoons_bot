@@ -203,11 +203,11 @@ def start(update: Update, context: CallbackContext):
                     ],
                      [
                          InlineKeyboardButton(
-                             text="🔹Join Our Channel🙂",
-                             url=f"https://t.me/telegeekcommunity"),
+                             text="🔹Join Our Channel",
+                             url=f"https://t.me/techytoons"),
                          InlineKeyboardButton(
-                             text="🔸Join Our Group 🙃",
-                             url="https://t.me/telegeekscommunity")
+                             text="🔸Join Our Group ",
+                             url="https://t.me/techytoonschat")
                      ],
                      [
                          InlineKeyboardButton(
