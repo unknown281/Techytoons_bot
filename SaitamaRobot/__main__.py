@@ -52,7 +52,7 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 Hi {}, I amb {}! 
-I am an group management bot made for [TechyToons](https://t.me/techtycoons)
+I am an group management bot made for [Techtycoons](https://t.me/techtycoons)
 You can find my list of available commands with /help.
 """
 
@@ -203,11 +203,11 @@ def start(update: Update, context: CallbackContext):
                     ],
                      [
                          InlineKeyboardButton(
-                             text="🔹Join Our Channel",
-                             url=f"https://t.me/techytoons"),
+                             text="🔹Join Our Channel🔹",
+                             url=f"https://t.me/techtycoons"),
                          InlineKeyboardButton(
-                             text="🔸Join Our Group ",
-                             url="https://t.me/techytoonschat")
+                             text="🔸Join Our Group🔸",
+                             url="https://t.me/techtycoonschat")
                      ],
                      [
                          InlineKeyboardButton(
