@@ -51,7 +51,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hi {}, I amb {}! 
+Hi {}, I am {}! 
 I am an group management bot made for [Techtycoons](https://t.me/techtycoons)
 You can find my list of available commands with /help.
 """
